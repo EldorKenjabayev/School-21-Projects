@@ -3,7 +3,7 @@
 Полезные видеоматериалы ты можешь найти в разделе "Projects (Media)" на Платформе.
 
 ![This day will help you get acquainted with Linux shell (Bash).](misc/images/rus/day1_door.png)
-
+.
 ## Contents
 
 1. [Chapter I](#chapter-i) \
