@@ -3,6 +3,7 @@
 
 Полезные видеоматериалы ты можешь найти в разделе "Projects (Media)" на Платформе.
 
+
 ![day5_door](misc/rus/images/day5_door.png)
 
 
